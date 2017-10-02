@@ -1,0 +1,12 @@
+subid,group,voltage,gender,remove
+s1,stress,0,M,
+s2,stress,0,M,1
+s3,stress,0,M,
+s4,stress,0,F,
+s5,stress,0,F,
+s6,stress,0,F,
+s2a,stress,0,M,
+c1,control,0,M
+c2,control,0,M
+c3,control,0,M
+c4,control,0,M
